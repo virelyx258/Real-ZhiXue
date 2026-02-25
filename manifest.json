@@ -1,0 +1,62 @@
+{
+    "item": {
+        "name": "真智学",
+        "description": "为 Xiaomi Vela 穿戴设备打造的第三方智学网客户端",
+        "preview": [
+            "redmi_watch_1.png",
+            "redmi_watch_2.png",
+            "redmi_watch_3.png",
+            "redmi_watch_4.png",
+            "redmi_watch_5.png",
+            "redmi_watch_6.png",
+            "xiaomi_band_pro_1.png",
+            "xiaomi_band_pro_2.png",
+            "xiaomi_band_pro_3.png",
+            "xiaomi_band_pro_4.png",
+            "xiaomi_band_pro_5.png",
+            "xiaomi_s4_1.png",
+            "xiaomi_s4_2.png",
+            "xiaomi_s4_3.png",
+            "xiaomi_s4_4.png",
+            "xiaomi_s4_5.png"
+        ],
+        "icon": "logo-hd.png",
+        "source_url": "https://github.com/virelyx258/Real-ZhiXue",
+        "author": [
+            {
+                "name": "HiSeed Studio",
+                "author_url": "https://www.hiseed.top/"
+            }
+        ]
+    },
+    "downloads": {
+        "o65": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "o65m": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "n67": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "p65": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "n62": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "o62": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        },
+        "o62m": {
+            "version": "1.0.3",
+            "file_name": "moe.riseforever.realzhixue.release.1.0.3.rpk"
+        }
+    }
+}
